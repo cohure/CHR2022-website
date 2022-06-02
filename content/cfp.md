@@ -58,7 +58,7 @@ To gain further insight into paper topics, please also refer to the proceedings 
 
 <input class="filled-in" type="checkbox"><span>Final papers ready: November 1, 2022</span>
 
-<input class="filled-in" type="checkbox"><span>Conference: December 14 - December 16, 2022
+<input class="filled-in" type="checkbox"><span>Conference: December 12 - December 14, 2022
 </span>
 
 

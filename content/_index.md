@@ -3,7 +3,7 @@ title: "Third Conference on Computational Humanities Research"
 date: 2019-12-15T11:12:14+01:00
 ---
 
-<h3 class="center"><b><span style="text-align:center;">December 14-16 2022, University of
+<h3 class="center"><b><span style="text-align:center;">December 12-14 2022, University of
 Antwerp, Belgium</b></h3>
 
 The Computational Humanities Research (CHR) community is an international and
