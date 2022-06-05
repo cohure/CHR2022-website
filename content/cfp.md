@@ -64,12 +64,12 @@ To gain further insight into paper topics, please also refer to the proceedings 
 
 ### Submission types
 
-**Long Papers**: up to 6000 words (ca. 12 pages, references, abstract and
+**Long Papers**: up to **5000** words (ca. 10 pages, references, abstract and
    tables/illustrations excluded), long papers report on completed, original and
    unpublished results. Brevity of argument is preferred. We welcome the use of appendices
    or other supplementary information.
 
-**Short Papers**: up to 3000 words (ca. 6 pages references, abstract and
+**Short Papers**: up to **3000** words (ca. 6 pages references, abstract and
    tables/illustrations excluded), small papers report on focussed contributions, and may
    present work in progress. 
    
@@ -84,8 +84,10 @@ Overleaf has a word count functionality, or you can use the
 
 
 ### Submission instructions and review process
-Submissions should be written in English and must be formatted according to the [CHR latex template](https://github.com/cohure/CHR-2021/raw/main/chr2021_latex_template.zip) 
-(see instructions on the forum to get you started [here](https://discourse.computational-humanities-research.org/t/chr-latex-instructions/230)).
+Submissions should be written in English and must be formatted according to the [CHR latex
+template](https://github.com/cohure/CHR2022-website/blob/main/data/chr2022_latex_template.zip) (see
+instructions on the forum to get you started
+[here](https://discourse.computational-humanities-research.org/t/chr-latex-instructions/230)).
 
 Submissions are to be submitted anonymously. All papers will be refereed through a 
 double-blind peer review process by at least three reviewers with final acceptance

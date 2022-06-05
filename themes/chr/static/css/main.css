@@ -123,6 +123,10 @@ h1, h2, h3, h4, h5, nav, footer {
     color: #383d43;
 }
 
+.conftitle {
+    padding-top: -10em;
+}
+
 .page-border {
     padding: .8rem;
     background-color: var(--color1);
