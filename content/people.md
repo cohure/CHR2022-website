@@ -12,7 +12,7 @@ date: 2021-02-19T15:59:28+01:00
 - Mike Kestemont, University of Antwerp
 - Alie Lassche, Leiden University
 - Enrique Manjavacas, Leiden University
-- Kristoffer Nielbo, University of Aarhus
+- Kristoffer Nielbo, Aarhus University
 - Melvin Wevers, University of Amsterdam
 - Joris van Zundert, Huygens ING - KNAW
 
