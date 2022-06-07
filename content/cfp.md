@@ -79,8 +79,9 @@ December 14, 2022 </span>
   describing your work in about **750** words (references excluded). Posters are
   well suited to present new or early stage research, for a corpus or database
   description, or for detailed technical explanations and clarifications.
-  Posters will not be published in the proceedings, but they will be added to
-  the website of CHR.
+  Perhaps needless to say given the R in CHR, but posters must also describe
+  actual _research_. Posters will not be published in the proceedings, but they
+  will be added to the website of CHR.
 
 Overleaf has a word count functionality, or you can use the
 [TexCount](https://app.uio.no/ifi/texcount/) application.
