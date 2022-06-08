@@ -49,6 +49,13 @@ To gain further insight into paper topics, please also refer to the proceedings
 of [CHR2020](http://ceur-ws.org/Vol-2723/) and
 [CHR2021](http://ceur-ws.org/Vol-2989/).
 
+### Venue
+The 2022 edition of the Computational Humanities Research conference will be
+hosted by the University of Antwerp, Belgium. The conference will be a hybrid
+event with an option to attend in person at the beautiful [Monestary of the
+Grauwzusters](https://www.uantwerpen.be/en/about-uantwerp/campuses/catering-conventionhalls/convention-halls/klooster-grauwzusters/)
+in Antwerp, virtually, or a combination of the two. More details will follow
+soon.
 
 ### Important dates
 

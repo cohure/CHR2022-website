@@ -10,8 +10,12 @@ The Computational Humanities Research (CHR) community is an international and
 interdisciplinary community that supports researchers with an interest in computational
 approaches to the humanities. 
 
-The 2022 edition of the Computational Humanities Research conference will be hosted by the
-University of Antwerp, Belgium. Check the [Call for Papers](/cfp)! 
+The 2022 edition of the Computational Humanities Research conference will be
+hosted by the University of Antwerp, Belgium. The conference will be a hybrid
+event with an option to attend in person at the beautiful [Monestary of the
+Grauwzusters](https://www.uantwerpen.be/en/about-uantwerp/campuses/catering-conventionhalls/convention-halls/klooster-grauwzusters/)
+in Antwerp, virtually, or a combination of the two. Check the [Call for
+Papers](/cfp)!
 
 
 <!-- ### Keynote Speakers -->
