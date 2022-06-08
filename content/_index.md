@@ -17,7 +17,6 @@ Grauwzusters](https://www.uantwerpen.be/en/about-uantwerp/campuses/catering-conv
 in Antwerp, virtually, or a combination of the two. Check the [Call for
 Papers](/cfp)!
 
-
 <!-- ### Keynote Speakers -->
 
 <!-- We are very honoured and pleased the following speakers have accepted to give keynotes at CHR2021. -->

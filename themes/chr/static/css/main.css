@@ -123,6 +123,10 @@ h1, h2, h3, h4, h5, nav, footer {
     color: #383d43;
 }
 
+.organization-logo {
+    max-width: 50%;
+}
+
 .conftitle {
     padding-top: -10em;
 }
@@ -144,13 +148,13 @@ nav .brand-logo {
     margin-bottom: 1rem;
 }
 
-img {
-    height: 200px; /* height of container */
-    object-fit: cover;
-    object-position: 10% 30%; /* try 20px 10px */    
-    background-color: var(--color1);
-    background-image: linear-gradient(135deg, var(--color1) 10%, var(--color2) 100%);
-}
+/* img { */
+/*     height: 200px; /\* height of container *\/ */
+/*     object-fit: cover; */
+/*     object-position: 10% 30%; /\* try 20px 10px *\/     */
+/*     background-color: var(--color1); */
+/*     background-image: linear-gradient(135deg, var(--color1) 10%, var(--color2) 100%); */
+/* } */
 
 .speaker {
     text-transform: uppercase;
@@ -245,11 +249,11 @@ h4 {
         font-size: 2rem;
     }
 
-    img {
-        padding: .4rem;
-        height: 200px;
-        object-position: 10% 30%; /* try 20px 10px */
-    }
+    /* img { */
+    /*     padding: .4rem; */
+    /*     height: 200px; */
+    /*     object-position: 10% 30%; /\* try 20px 10px *\/ */
+    /* } */
 
     .card {
         height: 380px !important;
