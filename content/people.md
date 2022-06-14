@@ -13,6 +13,7 @@ date: 2021-02-19T15:59:28+01:00
 - Alie Lassche, Leiden University
 - Enrique Manjavacas, Leiden University
 - Kristoffer Nielbo, Aarhus University
+- Line E Sorensen, Aarhus University
 - Thomas Smits, University of Antwerp
 - Melvin Wevers, University of Amsterdam
 - Joris van Zundert, Huygens ING - KNAW
