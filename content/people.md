@@ -8,6 +8,7 @@ date: 2021-02-19T15:59:28+01:00
 - Alie Lassche, Leiden University
 
 ### Organizers
+- Maud Ehrmann, École Polytechnique Fédérale de Lausanne
 - Folgert Karsdorp, KNAW Meertens Institute
 - Mike Kestemont, University of Antwerp
 - Alie Lassche, Leiden University
