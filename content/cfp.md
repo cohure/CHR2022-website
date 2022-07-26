@@ -97,7 +97,7 @@ Overleaf has a word count functionality, or you can use the
 ### Submission instructions and review process
 Submissions should be written in English and must be formatted according to the
 [CHR latex
-template](https://github.com/cohure/CHR2022-website/blob/main/data/chr2022_latex_template.zip)
+template](https://github.com/cohure/CHR2022-website/raw/main/data/chr2022_latex_template.zip)
 (see instructions on the forum to get you started
 [here](https://discourse.computational-humanities-research.org/t/chr-latex-instructions/230)).
 
