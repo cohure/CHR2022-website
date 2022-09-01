@@ -4,7 +4,7 @@ date: 2021-02-19T12:53:21+01:00
 ---
 
 
-<input class="filled-in" type="checkbox"><span>Submission deadline: September 2, 2022</span>
+<input class="filled-in" type="checkbox"><span>Submission deadline: Midnight, September 6, 2022</span>
 
 <input class="filled-in" type="checkbox"><span>Notification to authors: October 18, 2022
 </span>
