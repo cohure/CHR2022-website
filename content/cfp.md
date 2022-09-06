@@ -63,7 +63,7 @@ soon.
 2022</s></span>
 
 <input class="filled-in" type="checkbox"><span>Submission deadline: September 6, midnight
-CET, 2022</span>
+AoE, 2022</span>
 
 <input class="filled-in" type="checkbox"><span>Notification to authors: October
 18, 2022 </span>
