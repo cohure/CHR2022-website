@@ -17,53 +17,47 @@ Grauwzusters](https://www.uantwerpen.be/en/about-uantwerp/campuses/catering-conv
 in Antwerp, virtually, or a combination of the two. Check the [Call for
 Papers](/cfp)!
 
-<!-- ### Keynote Speakers -->
+### Keynote Speakers
 
-<!-- We are very honoured and pleased the following speakers have accepted to give keynotes at CHR2021. -->
+We are very honoured and pleased that Nina Tahmasebi and Peter Turchin have accepted to
+give a keynote lecture at CHR2022.
 
 
-<!--   <div class="row"> -->
-<!--     <div class="col s8 m4 l4"> -->
-<!--       <div class="card medium"> -->
-<!--         <div class="card-image"> -->
-<!--           <img src="/images/jacob_eisenstein.jpg"> -->
-<!--           <span class="card-title">Jacob Eisenstein</span> -->
-<!--         </div> -->
-<!--         <div class="card-content"> -->
-<!--           <p>Google AI</p> -->
-<!--         </div> -->
-<!--         <div class="card-action"> -->
-<!--           <a href="https://jacobeisenstein.github.io/">Website</a> -->
-<!--         </div> -->
-<!--      </div> -->
-<!--     </div> -->
-<!--     <div class="col s8 m4 l4"> -->
-<!--       <div class="card medium"> -->
-<!--         <div class="card-image"> -->
-<!--           <img src="/images/Iza_AIAS.jpg"> -->
-<!--           <span class="card-title">Iza Romanowska</span> -->
-<!--         </div> -->
-<!--         <div class="card-content"> -->
-<!--           <p>Fellow at the Aarhus -->
-<!--         Institute of Advanced Studies - AIAS, Denmark</p> -->
-<!--         </div> -->
-<!--         <div class="card-action"> -->
-<!--           <a href="https://aias.au.dk/aias-fellows/iza-romanowska/">Website</a> -->
-<!--         </div> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--     <div class="col s8 m4 l4"> -->
-<!--       <div class="card medium"> -->
-<!--         <div class="card-image"> -->
-<!--           <img src="/images/sara_tonelli.jpg"> -->
-<!--           <span class="card-title">Sara Tonelli</span> -->
-<!--         </div> -->
-<!--         <div class="card-content"> -->
-<!--           <p>Digital Humanities Research Unit, Fondazione Bruno Kessler, Trento, Italy</p> -->
-<!--         </div> -->
-<!--         <div class="card-action"> -->
-<!--           <a href="https://dh.fbk.eu/author/sara/">Website</a> -->
-<!--         </div>  -->
-<!--       </div> -->
-<!--     </div>  -->
-<!--   </div> -->
+  <div class="row">
+    <div class="col s12 m6">
+      <div class="card">
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="speaker-img activator" src="/images/1706099_nina.jpeg">
+          <!-- <span class="card-title">Nina Tahmasebi</span> -->
+        </div>
+        <div class="card-content">
+          <span class="card-title grey-text text-darken-4 activator">Nina Tahmasebi<i class="material-icons right">more_vert</i></span>
+        </div>
+       <div class="card-reveal">
+         <span class="card-title grey-text text-darken-4">Nina Tahmasebi<i class="material-icons right">close</i></span>
+                  <p>Nina Tahmasebi is an Associate Professor in NLP at the University of Gothenburg. She works
+                     at a Language Technology Research Lab, Språkbanken Text. During the
+                     past years, she also worked for the Centre for Digital Humanities. Her
+                     research focuses on computational methods for detecting changes in
+                     natural language, in particular semantic changes and lexical
+                     replacements.
+                  </p>
+       </div>
+     </div>
+    </div>
+    <div class="col s12 m6">
+      <div class="card">
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="speaker-img activator" src="/images/Turchin_2020-2-scaled.jpg">
+          <!-- <span class="card-title">sPeter Turchin</span> -->
+        </div>
+        <div class="card-content waves-effect waves-block waves-light">
+          <span class="card-title grey-text text-darken-4 activator">Peter Turchin<i class="material-icons right">more_vert</i></span>
+        </div>
+       <div class="card-reveal">
+         <span class="card-title grey-text text-darken-4">Peter Turchin<i class="material-icons right">close</i></span>
+         <p>Peter Turchin is a complexity scientist who works in the field of historical social science that he and his colleagues call Cliodynamics. His research interests lie at the intersection of social and cultural evolution, historical macrosociology, economic history, mathematical modeling of long-term social processes, and the construction and analysis of historical databases.</p>
+       </div>
+      </div>
+    </div>
+  </div>
