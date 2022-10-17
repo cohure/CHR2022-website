@@ -9,6 +9,7 @@ date: 2021-02-19T15:59:28+01:00
 
 ### Organizers
 - Maud Ehrmann, École Polytechnique Fédérale de Lausanne
+- Margherita Fantoli, KU Leuven
 - Folgert Karsdorp, KNAW Meertens Institute
 - Mike Kestemont, University of Antwerp
 - Alie Lassche, Leiden University
