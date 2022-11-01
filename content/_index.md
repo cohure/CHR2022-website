@@ -4,7 +4,7 @@ date: 2019-12-15T11:12:14+01:00
 ---
 
 <h3 class="center"><b><span style="text-align:center;">December 12-14 2022, University of
-Antwerp, Belgium</b></h3>
+Antwerp, Belgium</br></br><a href="https://forms.gle/2o5G9eSwqRjT3BFT6"><u>Registration</u></a> is now open</span></b></h3></br>
 
 The Computational Humanities Research (CHR) community is an international and
 interdisciplinary community that supports researchers with an interest in computational

@@ -3,6 +3,8 @@ title: "Call for Papers"
 date: 2019-12-15T11:11:58+01:00
 ---
 
+<h3 class="center"><b><span style="text-align:center;"><a href="https://forms.gle/2o5G9eSwqRjT3BFT6"><u>Registration</u></a> is now open</span></b></h3></br>
+
 In the arts and humanities, the use of computational, statistical, and
 mathematical approaches has considerably increased in recent years. This
 research is characterized by the use of formal methods and the construction of
