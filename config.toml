@@ -23,9 +23,9 @@ publishDir = "docs"
     weight = -2000
 
   [[menu.main]]
-    identifier = "dates"
-    name = "Dates"
-    url = "/dates"
+    identifier = "programme"
+    name = "Programme"
+    url = "/programme"
     weight = -1500
 
   [[menu.main]]

@@ -303,6 +303,30 @@ h4 {
     color: var(--color2);
 }
 
+.collection .collection-item.avatar:not(.circle-clipper) > .circle, .collection .collection-item.avatar :not(.circle-clipper) > .circle {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	overflow: hidden;
+	left: -20px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.collection .collection-item.avatar {
+	min-height: 84px;
+	padding-left: 0px;
+	position: relative;
+}
+
+.collection .collection-item.avatar .title {
+    padding-left: 2.75rem;
+}
+
+.collection .author {
+    padding-left: 2.75rem;
+}
+
 .icons {
     /* margin-top: .4rem; */
 }
@@ -317,7 +341,7 @@ h4 {
 
 .abstract-wrapper {
     margin-top: 1rem;
-    border-left-width: 5px;
+    border-left-width: 2px;
     border-right-width: 0px;
     border-bottom-width: 0px;
     border-top-width: 0px;
