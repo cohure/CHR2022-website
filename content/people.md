@@ -29,7 +29,7 @@ date: 2021-02-19T15:59:28+01:00
 - Anne Kandler, Max Planck Institute for Evolutionary Anthropology
 - Antoine Doucet, University of La Rochelle
 - Artjoms Šeļa, Institute of Polish Language, Polish Academy of Sciences (Krakow)
-- Barbara Mcgillivray, Alan Turing Institute/University of Cambridge, Department of Theoretical and Applied Linguistics
+- Barbara McGillivray, King’s College London
 - Bruna Wundervald, Maynooth University
 - Cerstin Mahlow, ZHAW Zurich University of Applied Sciences
 - Christof Schoech, University of Wurzburg
