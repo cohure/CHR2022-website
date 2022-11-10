@@ -12,24 +12,24 @@ layouttype: "single"
 - 18:00: opening reception (followed by self-paid dinner)
 
 ### Tuesday 13 December 2022 (Day 2)
-- 09:00-10:30: **session 2A**: 4 talks (1 SP, 3 LP)
+- 09:00-10:30: **session 2A**: Images and Scans
 - 10:30-11:00: *coffee break*
-- 11:00-12:20: **session 2B**: 4 talks (2 SP, 2 LP)
+- 11:00-12:20: **session 2B**: Literature I
 - 12:30-13:30: *lunch*
-- 13:30-15:00: **sessions 2C**: 4 talks (1 SP, 3 LP)
+- 13:30-15:00: **sessions 2C**: Language
 - 15:00-15:30: *coffee break*
-- 15:30-16:15: **session 2D**: 3 talks (3 SP)
+- 15:30-16:15: **session 2D**: Social Media
 - 16:15-17:45: **session 2E**: poster pitch session, followed by walk-around
 - 19:00: conference dinner (University club)
 
 ### Wednesday 14 December 2022 (Day 3)
 - 09:00-10:30: **session 3A**: keynote Nina Tahmasebi
 - 10:30-11:00: *coffee break*
-- 11:00-12:25: **session 3B**: 5 talks (4 SP, 1 LP)
+- 11:00-12:25: **session 3B**: Historical Dynamics
 - 12:30-13:30: *lunch*
-- 13:30-15:05: **sessions 3C**: 5 talks (3 SP, 2 LP)
+- 13:30-15:05: **sessions 3C**: Literature II
 - 15:05-15:35: *coffee break*
-- 15:35-17:05: **session 3D**: 4 talks (3 LP, 1 SP)
+- 15:35-17:05: **session 3D**: Text Classification
 - 17:05-17:30: **session 3E**: award ceremony, concluding remarks
 
 </br>
