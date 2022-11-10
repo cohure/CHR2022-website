@@ -3,7 +3,7 @@ title: "CHR2022 Programme"
 layouttype: "single" 
 ---
     
-*Please not that all times are in Central European Time (CET)*
+*Please note that all times are in Central European Time (CET)*
 ### Monday 12 December 2022 (Day 1)
 
 - (15:30-16:15: walk-in, registration)
