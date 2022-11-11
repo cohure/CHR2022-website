@@ -502,7 +502,7 @@ layouttype: "single"
     <div class="row">
       <span class="title col s10">A Quantitative Study of Fictional Things</span>
       <p>
-        <span class="col s10 author">Andrew Piper, Sunyam Bagga, Ilaria Tiddi and Manfred Jeusfeld</span><br>
+        <span class="col s10 author">Andrew Piper, Sunyam Bagga</span><br>
       </p>
       <span class="">
         <div class="abstract-wrapper hide-on-small-only col s12">
