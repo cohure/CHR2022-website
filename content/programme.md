@@ -12,11 +12,11 @@ layouttype: "single"
 - 18:00: opening reception (followed by self-paid dinner)
 
 ### Tuesday 13 December 2022 (Day 2)
-- 09:00-10:30: **session 2A**: Images and Scans
+- 09:00-10:30: **session 2A**: Language
 - 10:30-11:00: *coffee break*
 - 11:00-12:20: **session 2B**: Literature I
 - 12:30-13:30: *lunch*
-- 13:30-15:00: **sessions 2C**: Language
+- 13:30-15:00: **sessions 2C**: Images and Scans
 - 15:00-15:30: *coffee break*
 - 15:30-16:15: **session 2D**: Social Media
 - 16:15-17:45: **session 2E**: poster pitch session, followed by walk-around
@@ -36,7 +36,8 @@ layouttype: "single"
 
 ### Detailed Programme
 
-#### Session 2A    Images and scans
+#### Session 2A    Language
+
 <ul class="collection">
 <div class="">
   <li class="collection-item avatar">
@@ -44,73 +45,73 @@ layouttype: "single"
       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
-      <span class="title col s10">Ground-truth Free Evaluation of HTR on Old French and Latin Medieval Literary Manuscripts</span>
+      <span class="title col s10">The Roots of Doubt. Fine-tuning a BERT Model to Explore a Stylistic Phenomenon</span>
       <p>
-        <span class="col s10 author">Thibault Clérice</span><br>
-      </p>
-      <span class="">
-        <div class="abstract-wrapper col s12 hide-on-small-only">
-          <span class="abstract">As more and more projects openly release ground truth for handwritten text recognition (HTR), we expect the quality of automatic transcription to improve on unseen data. Getting models robust to scribal and material changes is a necessary step for specific data mining tasks. However, evaluation of HTR results requires ground truth to compare prediction statistically. In the context of modern languages, successful attempts to evaluate quality have been done using lexical features or n-grams. This, however, proves difficult in the context of spelling variation that both Old French and Latin have, even more so in the context of sometime heavily abbreviated manuscripts. We propose a new method based on deep learning where we attempt to categorize each line error rate into four error rate ranges ( 0 < 10%  < 25%  < 50%  < 100% ) using three different encoder (GRU with Attention, BiLSTM, TextCNN). To train these models, we propose a new dataset engineering approach using early stopped model, as an alternative to rule-based fake predictions. Our model largely outperforms the n-gram approach. We also provide an example application to qualitatively analyse our classifier, using classification on new prediction on a sample of 1,800 manuscripts ranging from the 9 th  century to the 15 th .</span>
-        </div>
-      </span>
-   </div>
- </li>
-</div>
-
-
-<div class="">
-  <li class="collection-item avatar">
-    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
-      <i class="material-icons-outlined">picture_as_pdf</i>
-    </a>
-    <div class="row">
-      <span class="title col s10">The Computational Memorability of Iconic Images</span>
-      <p>
-        <span class="col s10 author">Lisa Saleh and Nanne van Noord</span><br>
-      </p>
-      <span class="">
-        <div class="abstract-wrapper col s12 hide-on-small-only">
-          <span class="abstract">The perception of historic events is frequently shaped by specific images that  have been ascribed an iconic status. These images are widely reproduced and recognised and can therefore be considered memorable. A question that arises given such images is whether the memorability of iconic images is intrinsic or whether it is shaped. In this work we analyse the memorability of iconic images by means of computational  techniques that are specifically designed to measure the intrinsic memorability of images. To judge whether iconic images are inherently more memorable we establish two baselines based on datasets of diverse imagery and of newspaper imagery. Our findings show that iconic images are not more memorable than modern day newspaper imagery or when compared to a diverse set of everyday images. In fact, by and large many of the iconic images analysed score on the low end of the memorability spectrum. Additionally, we explore the variation in memorability of reproductions of iconic images  and find that certain images have been edited resulting in higher memorability scores,  but that the images by and large are reproduced with memorability close to the original.</span>
-        </div>
-      </span>
-   </div>
- </li>
-</div>
-
-
-<div class="">
-  <li class="collection-item avatar">
-    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
-      <i class="material-icons-outlined">picture_as_pdf</i>
-    </a>
-    <div class="row">
-      <span class="title col s10">Page Layout Analysis of Text-heavy Historical Documents: a Comparison of Textual and Visual Approaches</span>
-      <p>
-        <span class="col s10 author">Sven Najem-Meyer and Matteo Romanello</span><br>
-      </p>
-      <span class="">
-        <div class="abstract-wrapper col s12 hide-on-small-only">
-          <span class="abstract">Page layout analysis is a fundamental step in document processing which enables to segment a page into regions of interest. With highly complex layouts and mixed scripts, scholarly commentaries are text-heavy documents which remain challenging for state-of-the-art models. Their layout considerably varies across editions and their most important regions are mainly defined by semantic rather than graphical characteristics such as position or appearance. This setting calls for a comparison between textual, visual and hybrid approaches. We therefore assess the performances of two transformers (LayoutLMv3 and RoBERTa) and an objection-detection network (YOLOv5). If results show a clear advantage in favor of the latter, we also list several caveats to this finding. In addition to our experiments, we release a dataset of ca. 300 annotated pages sampled from 19 th  century commentaries.</span>
-        </div>
-      </span>
-   </div>
- </li>
-</div>
-
-
-<div class="">
-  <li class="collection-item avatar">
-    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
-      <i class="material-icons-outlined">picture_as_pdf</i>
-    </a>
-    <div class="row">
-      <span class="title col s10">Automatic Identification and Classification of Portraits in a Corpus of Historical Photographs</span>
-      <p>
-        <span class="col s10 author">Taylor Arnold, Lauren Tilton and Justin Wigard</span><br>
+        <span class="col s10 author">Margherita Parigini and Mike Kestemont</span><br>
       </p>
       <span class="">
         <div class="abstract-wrapper hide-on-small-only col s12">
-          <span class="abstract">There have been recent calls for an increased focus on the application of computer vision to the study and curation of digitised cultural heritage materials. In this short paper, we present an approach to bridge the gap between existing algorithms and humanistically driven annotations through a case study in which we create an algorithm to detect and and classify portrait photography. We apply this method to a collection of about 40,000 photographs and present a preliminary analysis of the constructed data. The work  is part of the larger ongoing study that applies computer vision to the computational analysis of over a million U.S. documentary photographs from the early twentieth century.</span>
+          <span class="abstract">The narrative work of well-known Italian author Italo Calvino (1923-1985) features a phenomenon that literary critics refer to as "dubitative text": this stylistic device consciously hinders the narrative progression of a story, by questioning its own content. We report on an attempt to model the presence of dubitative text in Calvino's fictional oeuvre and examine whether this model can also be used to retrieve dubitative instances in his essayistic oeuvre. We hypothesize that precisely the category of the dubitative text yields interesting points of intersection between both writing modes. We fine-tuned a BERT model based on a manually annotated dataset and report inter-annotator scores. We situate our findings and model criticism in the current landscape of Calvino scholarship. While detecting dubitative text is challenging, our model provides fresh insights into the device's surface features.</span>
+        </div>
+      </span>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Linguistic value construction in 18th-century London auction advertisements: a quantitative approach</span>
+      <p>
+        <span class="col s10 author">Alessandra De Mulder, Lauren Fonteyn and Mike Kestemont</span><br>
+      </p>
+      <span class="">
+        <div class="abstract-wrapper hide-on-small-only col s12">
+          <span class="abstract">Georgian England was characterised by a buzzing consumer society in which advertising played a progressively important role when it came to the (linguistic) value construction surrounding material goods. Increasingly, the perceived value of goods was not only determined by the intrinsic quality of the goods, but also by the socio-commercial discourse used to characterise them. Linguistic modifiers, such as adjectives, must have played an important role in this process -- reflecting these socio-economical trends in text while also reinforcing them. Here, we focus on a diachronic corpus of over 5,000 pages of London auction advertisement pages, digitised via automated transcription and divided across four sample periods between 1742-1829. Prime methodological challenges include: (1) the noisiness of the available data because of imperfect transcription; (2) the coarseness of the available time stamps, and (3) the lack of suitable NLP software, such as lemmatizers or (shallow) syntactic parsers. Through the use of word embeddings, we try to alleviate the issue of spelling variation with reasonable success. We find that, over time, subjective or `evaluative' modifiers have become more prominent in these advertisements than their objective or `descriptive' counterparts -- but there are different temporal patterns for different types of advertised objects</span>
+        </div>
+      </span>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Introducing Functional Diversity: A Novel Approach to Lexical Diversity in (Historical) Corpora</span>
+      <p>
+        <span class="col s10 author">Folgert Karsdorp, Enrique Manjavacas and Lauren Fonteyn</span><br>
+      </p>
+      <span class="">
+        <div class="abstract-wrapper hide-on-small-only col s12">
+          <span class="abstract">The question how we can reliably estimate the lexical diversity of a particular text (collection) has often been asked by linguists and literary scholars alike. This short paper introduces a way of operationalizing functional diversity measurements by means of token-based embeddings, and argues that functional diversity is not only a practically advantageous, but also a theoretically relevant addition to the Computational Humanities Research toolkit. By means of an experiment on the historical ARCHER corpus, we show that lexical diversity at the level of functional groups is less sensitive to orthographic variation, and provides insight into an important and often disregarded dimension of vocabulary diversity in textual data.</span>
+        </div>
+      </span>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Formulaic Language Use in Historical Legal Documents</span>
+      <p>
+        <span class="col s10 author">Marijn Koolen and Rik Hoekstra</span><br>
+      </p>
+      <span class="">
+        <div class="abstract-wrapper hide-on-small-only col s12">
+          <span class="abstract">Historical administrative corpora are filled with jargon and formulaic expressions that were used con- sistently across many documents. Governmental decisions, notarial deeds and official charters often contain fixed expressions to ensure that the same legal aspects in different documents had the same interpretation. Such formulaic expressions can be used to identify specific elements of a document. For instance, a deed has different formulas to indicate whether it concerns the sale of property or the transferal of rights. In this paper we explore formulas as a methodological devise to structure the text of an administrative corpus and make the information contained in it better accessible. We use a data- driven method to detect potential formulaic expressions in historical corpora, that can deal with spelling variation and change and recognition errors introduced in the digitisation process. We apply this ex- ploratory technique on a corpus of almost 300,000 eighteenth-century resolutions of the States General of the Dutch Republic and find many formulaic expressions that capture relationships between the polit- ical actors involved and the decisions that were made. A first analysis suggests that many formulas can be used to add metadata to individual resolutions on various elements of the proposals and decisions that are part of each resolution.</span>
         </div>
       </span>
    </div>
@@ -202,7 +203,7 @@ layouttype: "single"
 </div>
 </ul>
 
-#### Session 2C    Language
+#### Session 2C    Images and Scans
 
 <ul class="collection">
 <div class="">
@@ -211,13 +212,13 @@ layouttype: "single"
       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
-      <span class="title col s10">The Roots of Doubt. Fine-tuning a BERT Model to Explore a Stylistic Phenomenon</span>
+      <span class="title col s10">Ground-truth Free Evaluation of HTR on Old French and Latin Medieval Literary Manuscripts</span>
       <p>
-        <span class="col s10 author">Margherita Parigini and Mike Kestemont</span><br>
+        <span class="col s10 author">Thibault Clérice</span><br>
       </p>
       <span class="">
-        <div class="abstract-wrapper hide-on-small-only col s12">
-          <span class="abstract">The narrative work of well-known Italian author Italo Calvino (1923-1985) features a phenomenon that literary critics refer to as "dubitative text": this stylistic device consciously hinders the narrative progression of a story, by questioning its own content. We report on an attempt to model the presence of dubitative text in Calvino's fictional oeuvre and examine whether this model can also be used to retrieve dubitative instances in his essayistic oeuvre. We hypothesize that precisely the category of the dubitative text yields interesting points of intersection between both writing modes. We fine-tuned a BERT model based on a manually annotated dataset and report inter-annotator scores. We situate our findings and model criticism in the current landscape of Calvino scholarship. While detecting dubitative text is challenging, our model provides fresh insights into the device's surface features.</span>
+        <div class="abstract-wrapper col s12 hide-on-small-only">
+          <span class="abstract">As more and more projects openly release ground truth for handwritten text recognition (HTR), we expect the quality of automatic transcription to improve on unseen data. Getting models robust to scribal and material changes is a necessary step for specific data mining tasks. However, evaluation of HTR results requires ground truth to compare prediction statistically. In the context of modern languages, successful attempts to evaluate quality have been done using lexical features or n-grams. This, however, proves difficult in the context of spelling variation that both Old French and Latin have, even more so in the context of sometime heavily abbreviated manuscripts. We propose a new method based on deep learning where we attempt to categorize each line error rate into four error rate ranges ( 0 < 10%  < 25%  < 50%  < 100% ) using three different encoder (GRU with Attention, BiLSTM, TextCNN). To train these models, we propose a new dataset engineering approach using early stopped model, as an alternative to rule-based fake predictions. Our model largely outperforms the n-gram approach. We also provide an example application to qualitatively analyse our classifier, using classification on new prediction on a sample of 1,800 manuscripts ranging from the 9 th  century to the 15 th .</span>
         </div>
       </span>
    </div>
@@ -231,13 +232,13 @@ layouttype: "single"
       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
-      <span class="title col s10">Linguistic value construction in 18th-century London auction advertisements: a quantitative approach</span>
+      <span class="title col s10">The Computational Memorability of Iconic Images</span>
       <p>
-        <span class="col s10 author">Alessandra De Mulder, Lauren Fonteyn and Mike Kestemont</span><br>
+        <span class="col s10 author">Lisa Saleh and Nanne van Noord</span><br>
       </p>
       <span class="">
-        <div class="abstract-wrapper hide-on-small-only col s12">
-          <span class="abstract">Georgian England was characterised by a buzzing consumer society in which advertising played a progressively important role when it came to the (linguistic) value construction surrounding material goods. Increasingly, the perceived value of goods was not only determined by the intrinsic quality of the goods, but also by the socio-commercial discourse used to characterise them. Linguistic modifiers, such as adjectives, must have played an important role in this process -- reflecting these socio-economical trends in text while also reinforcing them. Here, we focus on a diachronic corpus of over 5,000 pages of London auction advertisement pages, digitised via automated transcription and divided across four sample periods between 1742-1829. Prime methodological challenges include: (1) the noisiness of the available data because of imperfect transcription; (2) the coarseness of the available time stamps, and (3) the lack of suitable NLP software, such as lemmatizers or (shallow) syntactic parsers. Through the use of word embeddings, we try to alleviate the issue of spelling variation with reasonable success. We find that, over time, subjective or `evaluative' modifiers have become more prominent in these advertisements than their objective or `descriptive' counterparts -- but there are different temporal patterns for different types of advertised objects</span>
+        <div class="abstract-wrapper col s12 hide-on-small-only">
+          <span class="abstract">The perception of historic events is frequently shaped by specific images that  have been ascribed an iconic status. These images are widely reproduced and recognised and can therefore be considered memorable. A question that arises given such images is whether the memorability of iconic images is intrinsic or whether it is shaped. In this work we analyse the memorability of iconic images by means of computational  techniques that are specifically designed to measure the intrinsic memorability of images. To judge whether iconic images are inherently more memorable we establish two baselines based on datasets of diverse imagery and of newspaper imagery. Our findings show that iconic images are not more memorable than modern day newspaper imagery or when compared to a diverse set of everyday images. In fact, by and large many of the iconic images analysed score on the low end of the memorability spectrum. Additionally, we explore the variation in memorability of reproductions of iconic images  and find that certain images have been edited resulting in higher memorability scores,  but that the images by and large are reproduced with memorability close to the original.</span>
         </div>
       </span>
    </div>
@@ -251,13 +252,13 @@ layouttype: "single"
       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
-      <span class="title col s10">Introducing Functional Diversity: A Novel Approach to Lexical Diversity in (Historical) Corpora</span>
+      <span class="title col s10">Page Layout Analysis of Text-heavy Historical Documents: a Comparison of Textual and Visual Approaches</span>
       <p>
-        <span class="col s10 author">Folgert Karsdorp, Enrique Manjavacas and Lauren Fonteyn</span><br>
+        <span class="col s10 author">Sven Najem-Meyer and Matteo Romanello</span><br>
       </p>
       <span class="">
-        <div class="abstract-wrapper hide-on-small-only col s12">
-          <span class="abstract">The question how we can reliably estimate the lexical diversity of a particular text (collection) has often been asked by linguists and literary scholars alike. This short paper introduces a way of operationalizing functional diversity measurements by means of token-based embeddings, and argues that functional diversity is not only a practically advantageous, but also a theoretically relevant addition to the Computational Humanities Research toolkit. By means of an experiment on the historical ARCHER corpus, we show that lexical diversity at the level of functional groups is less sensitive to orthographic variation, and provides insight into an important and often disregarded dimension of vocabulary diversity in textual data.</span>
+        <div class="abstract-wrapper col s12 hide-on-small-only">
+          <span class="abstract">Page layout analysis is a fundamental step in document processing which enables to segment a page into regions of interest. With highly complex layouts and mixed scripts, scholarly commentaries are text-heavy documents which remain challenging for state-of-the-art models. Their layout considerably varies across editions and their most important regions are mainly defined by semantic rather than graphical characteristics such as position or appearance. This setting calls for a comparison between textual, visual and hybrid approaches. We therefore assess the performances of two transformers (LayoutLMv3 and RoBERTa) and an objection-detection network (YOLOv5). If results show a clear advantage in favor of the latter, we also list several caveats to this finding. In addition to our experiments, we release a dataset of ca. 300 annotated pages sampled from 19 th  century commentaries.</span>
         </div>
       </span>
    </div>
@@ -271,19 +272,20 @@ layouttype: "single"
       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
-      <span class="title col s10">Formulaic Language Use in Historical Legal Documents</span>
+      <span class="title col s10">Automatic Identification and Classification of Portraits in a Corpus of Historical Photographs</span>
       <p>
-        <span class="col s10 author">Marijn Koolen and Rik Hoekstra</span><br>
+        <span class="col s10 author">Taylor Arnold, Lauren Tilton and Justin Wigard</span><br>
       </p>
       <span class="">
         <div class="abstract-wrapper hide-on-small-only col s12">
-          <span class="abstract">Historical administrative corpora are filled with jargon and formulaic expressions that were used con- sistently across many documents. Governmental decisions, notarial deeds and official charters often contain fixed expressions to ensure that the same legal aspects in different documents had the same interpretation. Such formulaic expressions can be used to identify specific elements of a document. For instance, a deed has different formulas to indicate whether it concerns the sale of property or the transferal of rights. In this paper we explore formulas as a methodological devise to structure the text of an administrative corpus and make the information contained in it better accessible. We use a data- driven method to detect potential formulaic expressions in historical corpora, that can deal with spelling variation and change and recognition errors introduced in the digitisation process. We apply this ex- ploratory technique on a corpus of almost 300,000 eighteenth-century resolutions of the States General of the Dutch Republic and find many formulaic expressions that capture relationships between the polit- ical actors involved and the decisions that were made. A first analysis suggests that many formulas can be used to add metadata to individual resolutions on various elements of the proposals and decisions that are part of each resolution.</span>
+          <span class="abstract">There have been recent calls for an increased focus on the application of computer vision to the study and curation of digitised cultural heritage materials. In this short paper, we present an approach to bridge the gap between existing algorithms and humanistically driven annotations through a case study in which we create an algorithm to detect and and classify portrait photography. We apply this method to a collection of about 40,000 photographs and present a preliminary analysis of the constructed data. The work  is part of the larger ongoing study that applies computer vision to the computational analysis of over a million U.S. documentary photographs from the early twentieth century.</span>
         </div>
       </span>
    </div>
  </li>
 </div>
 </ul>
+
 
 #### Session 2D    Social media
 <ul class="collection">
