@@ -23,6 +23,12 @@ publishDir = "docs"
     weight = -2000
 
   [[menu.main]]
+    identifier = "venue"
+    name = "venue"
+    url = "/venue"
+    weight = -1750
+
+  [[menu.main]]
     identifier = "programme"
     name = "Programme"
     url = "/programme"
