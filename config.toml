@@ -24,7 +24,7 @@ publishDir = "docs"
 
   [[menu.main]]
     identifier = "venue"
-    name = "venue"
+    name = "Venue"
     url = "/venue"
     weight = -1750
 
