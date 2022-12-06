@@ -17,6 +17,12 @@ Grauwzusters](https://www.uantwerpen.be/en/about-uantwerp/campuses/catering-conv
 in Antwerp, virtually, or a combination of the two. Check the [Call for
 Papers](/cfp)!
 
+### Practicalities
+Visit our forum for the latest updates and more information about the
+[venue](https://discourse.computational-humanities-research.org/t/chr2022-practicalities/1911)
+and
+[program](https://discourse.computational-humanities-research.org/t/chr2022-schedule/1880/4). 
+
 ### Keynote Speakers
 
 We are very honoured and pleased that Nina Tahmasebi and Peter Turchin have accepted to
