@@ -1,6 +1,6 @@
 # CHR 2022
 
-Website for the 2022 edition of the Computational Humanities Research conference. The
+Website for the previous (2022) edition of the Computational Humanities Research conference. The
 website is built on top of the [Hugo](https://gohugo.io/) static site generator. Below are
 some pointers to get you started with the website. 
 
